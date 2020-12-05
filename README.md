@@ -1,13 +1,4 @@
-## Update
-__(29/7/2020)__
-- Rename `utils.py` to  `local_utils.py` to avoid conflicit with default Python library `utils.py`.
-- Replace error `index out of range` to `No License plate is founded!`.
-- In case error `No License Plate is founded!` popped up, try to adjust Dmin from `get_plate()` function. Keep in mind that larger Dmin means more higly the plate information is lost.
 
-## [Read the series on Medium](https://medium.com/@quangnhatnguyenle/detect-and-recognize-vehicles-license-plate-with-machine-learning-and-python-part-1-detection-795fda47e922)
-- Part 1: [Detection License Plate with Wpod-Net](https://medium.com/@quangnhatnguyenle/detect-and-recognize-vehicles-license-plate-with-machine-learning-and-python-part-1-detection-795fda47e922)
-- Part 2: [Plate character segmentation with OpenCV](https://medium.com/@quangnhatnguyenle/detect-and-recognize-vehicles-license-plate-with-machine-learning-and-python-part-2-plate-de644de9849f)
-- Part 3: [Recognize plate license characters with OpenCV and Deep Learning](https://medium.com/@quangnhatnguyenle/detect-and-recognize-vehicles-license-plate-with-machine-learning-and-python-part-3-recognize-be2eca1a9f12)
 
 ## Tools and Libraries
 - Python==3.6
@@ -20,14 +11,14 @@ __(29/7/2020)__
 
 # Detect and Recognize Vehicle’s License Plate with Machine Learning and Python 
 
-### [Part 1: Detection License Plate with Wpod-Net](https://medium.com/@quangnhatnguyenle/detect-and-recognize-vehicles-license-plate-with-machine-learning-and-python-part-1-detection-795fda47e922)
+### [Part 1: Detection License Plate with Wpod-Net]
 <p align="center"><img src="./figures/Part1_result.jpg" width=640></p><br>
 
-### [Part 2: Plate character segmentation with OpenCV](https://medium.com/@quangnhatnguyenle/detect-and-recognize-vehicles-license-plate-with-machine-learning-and-python-part-2-plate-de644de9849f)
+### [Part 2: Plate character segmentation with OpenCV]
 
 <p align="center"><img src="./figures/Part2_result.jpg" width=640></p><br>
 
-### [Part 3: Recognize plate license characters with OpenCV and Deep Learning](https://medium.com/@quangnhatnguyenle/detect-and-recognize-vehicles-license-plate-with-machine-learning-and-python-part-3-recognize-be2eca1a9f12)
+### [Part 3: Recognize plate license characters with OpenCV and Deep Learning]
 
 <p align="center"><img src="./figures/Part3_result.jpg" width=640></p><br>
 
